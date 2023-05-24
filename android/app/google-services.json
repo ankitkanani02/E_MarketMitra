@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003628836703",
+    "project_id": "emmitra-fe70a",
+    "storage_bucket": "emmitra-fe70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003628836703:android:18b76b4c9bf514cd49a8ea",
+        "android_client_info": {
+          "package_name": "com.example.emmitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003628836703-s2vdmjo3tat2lk8j8jnmn0i0t9mc3irv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeZsDjbvGEKabV6rMGHoHsioogs4kURc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003628836703-s2vdmjo3tat2lk8j8jnmn0i0t9mc3irv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
